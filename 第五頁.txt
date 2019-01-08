@@ -1,0 +1,41 @@
+<html>
+<body>
+
+<body background="008.gif" text="#000000" link="#0066cc" vlink="#336600">
+ 
+<embed src="音樂檔案.mp3"  width="200" height="40" type="audio/mpeg" autostart="false" loop="true"></embed>
+
+<table border="1">
+ <tr>
+   <th>90534236  杜博文  指導老師  朱晉德</th>
+   <th>Savings</th>
+ </tr>
+ <tr>
+   <td>謝謝老師這一學期的教導<br>
+   <br>
+   在之前的其他課程中並沒接觸過網頁製作課程<br>
+   <br>
+   覺得新奇也很有趣<br>
+   <br>
+   雖然過程中也碰到很多困難<br>
+   <br>
+   一堆的英文符號.程式碼之類的<br>
+   <br>
+   但也在過程中學習到了很多<br>
+   <br>
+   覺得在之後的工作生涯中會有幫助的<br>
+   <br>
+   謝謝老師 我是夜餐三乙杜博文  學號90534236
+</td>
+</tr>
+</table>
+
+
+<h5><a href="index.html">第一頁</h5></a> 
+<h5><a href="2nd.html">第二頁</h5></a> 
+<h5><a href="3rd.html">第三頁</h5></a>
+<h5><a href="4th.html">第四頁</h5></a>
+
+
+</body>
+</html>

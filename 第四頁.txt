@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>  赫朵那生活餐坊</title>
+</head>
+
+<body background="008.gif" text="#000000" link="#0066cc" vlink="#336600">
+
+<embed src="音樂檔案.mp3"  width="200" height="40" type="audio/mpeg" autostart="false" loop="true"></embed>
+
+<img src ="image/006.jpg" height="300"  width="400">
+<font face=標楷體">
+
+<h5><center><b>菜單</center></h5><p>
+<hr  color="#ff8000">
+
+<img src ="folder/008.jpg"  height="300"  width="400" > 
+<img src ="folder/009.jpg"  height="300"  width="400" > 
+<img src ="folder/010.jpg"  height="300"  width="400" > 
+<img src ="folder/011.jpg"  height="300"  width="400" > 
+<img src ="folder/012.jpg"  height="300"  width="400" > 
+
+
+               
+<h5><a href="index.html">第一頁</h5></a> 
+<h5><a href="2nd.html">第二頁</h5></a> 
+<h5><a href="3rd.html">第三頁</h5></a>
+<h5><a href="5th.html">第五頁</h5></a>
+</body>
+</html>
